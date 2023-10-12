@@ -30,9 +30,9 @@ Assignment 13 :  KNN
 
 Assignment 14 :  Decision tree
 
-Assignment 15 : Neural Networks
+Assignment 15 :  Random Forests
 
-Assignment 16 : Random Forests
+Assignment 16 : Neural Networks
 
 Assignment 17 :Support Vector Machines
 
