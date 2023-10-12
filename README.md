@@ -22,17 +22,17 @@ Assignment 9 : Association Rules
 
 Assignment 10 : Recommendation system
 
-Assignment 11 : KNN
+Assignment 11 : Text Mining
 
 Assignment 12 :  Naive Bayes
 
-Assignment 13 : Random Forests
+Assignment 13 :  KNN
 
 Assignment 14 :  Decision tree
 
 Assignment 15 : Neural Networks
 
-Assignment 16 : Text Mining
+Assignment 16 : Random Forests
 
 Assignment 17 :Support Vector Machines
 
