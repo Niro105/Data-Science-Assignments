@@ -24,17 +24,18 @@ Assignment 10 : Recommendation system
 
 Assignment 11 : KNN
 
-Assignment 12 : Decision tree
+Assignment 12 :  Naive Bayes
 
 Assignment 13 : Random Forests
 
-Assignment 14 : Support Vector Machines
+Assignment 14 :  Decision tree
 
 Assignment 15 : Neural Networks
 
 Assignment 16 : Text Mining
 
-Assignment 17 : Naive Bayes
+Assignment 17 :Support Vector Machines
+
 
 Assignment 18 : Forecasting
 
