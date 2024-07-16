@@ -57,3 +57,5 @@ Model Building : Sklearn, TensorFlow
 Deployment : Pickle, Streamlit
 
 Dataset : .csv, .xlsx
+
+Thanks
